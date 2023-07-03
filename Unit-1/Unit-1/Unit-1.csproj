@@ -12,6 +12,7 @@
     <Compile Remove="Extension.cs" />
     <Compile Remove="Name.cs" />
     <Compile Remove="Program.cs" />
+    <Compile Remove="Revword_sec.cs" />
     <Compile Remove="Sum.cs" />
     <Compile Remove="User_sum.cs" />
   </ItemGroup>
@@ -20,6 +21,7 @@
     <None Include="Extension.cs" />
     <None Include="Name.cs" />
     <None Include="Program.cs" />
+    <None Include="Revword_sec.cs" />
     <None Include="Sum.cs" />
     <None Include="User_sum.cs" />
   </ItemGroup>

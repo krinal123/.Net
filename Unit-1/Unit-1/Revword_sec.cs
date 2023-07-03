@@ -12,11 +12,8 @@ namespace Unit_1
         {
             Console.Write("Enter the String : "); 
             string str = Console.ReadLine();
-            
             string ans = string.Join(" ",str.Split(' ').Reverse());
-            
             Console.Write("Reversed String: " + ans);
-             
             Console.WriteLine();
 
         }
