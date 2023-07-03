@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "E:\\My Programs\\C#.Net\\Unit-1\\Unit-1\\Unit-1.csproj": {}
+    "E:\\My Programs\\.Net\\Unit-1\\Unit-1\\Unit-1.csproj": {}
   },
   "projects": {
-    "E:\\My Programs\\C#.Net\\Unit-1\\Unit-1\\Unit-1.csproj": {
+    "E:\\My Programs\\.Net\\Unit-1\\Unit-1\\Unit-1.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\My Programs\\C#.Net\\Unit-1\\Unit-1\\Unit-1.csproj",
+        "projectUniqueName": "E:\\My Programs\\.Net\\Unit-1\\Unit-1\\Unit-1.csproj",
         "projectName": "Unit-1",
-        "projectPath": "E:\\My Programs\\C#.Net\\Unit-1\\Unit-1\\Unit-1.csproj",
+        "projectPath": "E:\\My Programs\\.Net\\Unit-1\\Unit-1\\Unit-1.csproj",
         "packagesPath": "C:\\Users\\Lenovo\\.nuget\\packages\\",
-        "outputPath": "E:\\My Programs\\C#.Net\\Unit-1\\Unit-1\\obj\\",
+        "outputPath": "E:\\My Programs\\.Net\\Unit-1\\Unit-1\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Lenovo\\AppData\\Roaming\\NuGet\\NuGet.Config",

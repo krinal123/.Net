@@ -9,12 +9,14 @@
   </PropertyGroup>
 
   <ItemGroup>
+    <Compile Remove="Extension.cs" />
     <Compile Remove="Name.cs" />
     <Compile Remove="Program.cs" />
     <Compile Remove="Sum.cs" />
   </ItemGroup>
 
   <ItemGroup>
+    <None Include="Extension.cs" />
     <None Include="Name.cs" />
     <None Include="Program.cs" />
     <None Include="Sum.cs" />
