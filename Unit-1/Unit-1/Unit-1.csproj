@@ -10,6 +10,7 @@
 
   <ItemGroup>
     <Compile Remove="Case_Converter.cs" />
+    <Compile Remove="Case_Rev.cs" />
     <Compile Remove="Extension.cs" />
     <Compile Remove="Name.cs" />
     <Compile Remove="Program.cs" />
@@ -20,6 +21,7 @@
 
   <ItemGroup>
     <None Include="Case_Converter.cs" />
+    <None Include="Case_Rev.cs" />
     <None Include="Extension.cs" />
     <None Include="Name.cs" />
     <None Include="Program.cs" />
