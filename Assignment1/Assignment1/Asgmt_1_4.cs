@@ -23,6 +23,7 @@ namespace Assignment1
                 Console.WriteLine("B is Greater");
             }
             Console.Read();
+            
         }
     }
 }
