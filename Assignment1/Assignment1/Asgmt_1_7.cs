@@ -12,7 +12,7 @@ namespace Assignment1
         {
             Console.WriteLine("Enter your String : ");
             string str = Console.ReadLine(); 
-            string ans = string.Join(" ", str.Split(' ').Reverse()); 
+            string ans = string.Join("",str.Reverse()); 
             Console.WriteLine("Now your String is : " + ans);
             Console.Read();
         }

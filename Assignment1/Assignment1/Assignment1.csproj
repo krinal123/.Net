@@ -15,6 +15,8 @@
     <Compile Remove="Asgmt_1_5.cs" />
     <Compile Remove="Asgmt_1_6.cs" />
     <Compile Remove="Asgmt_1_7.cs" />
+    <Compile Remove="Asgmt_1_8.cs" />
+    <Compile Remove="Asgmt_1_9.cs" />
     <Compile Remove="Program.cs" />
   </ItemGroup>
 
@@ -26,6 +28,8 @@
     <None Include="Asgmt_1_5.cs" />
     <None Include="Asgmt_1_6.cs" />
     <None Include="Asgmt_1_7.cs" />
+    <None Include="Asgmt_1_8.cs" />
+    <None Include="Asgmt_1_9.cs" />
     <None Include="Program.cs" />
   </ItemGroup>
 
